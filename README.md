@@ -29,7 +29,7 @@ jupyter notebook analise_animes_crunchyroll.ipynb
 
 ## Principais resultados
 
-Valores calculados pelo notebook e presentes no relatório final da célula 15:
+Valores calculados pelo notebook e impressos na célula 16, sob o título "Relatório final" da célula 15:
 
 - **1.235 dos 1.255** animes têm pelo menos um voto e entram na análise de notas.
 - A nota **média é 4,15** e a **mediana 4,36**, em escala de até 5,0.
